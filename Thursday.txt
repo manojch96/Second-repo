@@ -1,1 +1,2 @@
 trying to complete git.
+one step to commit and add.
